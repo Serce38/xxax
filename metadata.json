@@ -1,0 +1,6 @@
+{
+  "name": "Koyun ve Sürü Yönetim Sistemi - Çiftlik Pro",
+  "description": "Kategori bazlı küçükbaş sürü takibi, koç katımı ve 150 günlük gebelik izleme, aşı ve karantina takvimi, rasyon/yem hesabı ve çiftlik finans modülü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
